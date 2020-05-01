@@ -1087,7 +1087,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   padding-bottom: 20px !important;
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .info-1VyQPT .colorMuted-HdFt4q.size12-3cLvbJ:last-child:after {
-  content: "Demon From Heaven v0.0.1 by Death GOD 7";
+  content: "DFH v0.0.1 by Death GOD 7";
   position: absolute;
   left: 0;
   top: 18px;
@@ -2499,7 +2499,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .colorMuted-HdFt4q.size12-3cLvbJ:first-child:before {
-  content: "Demon From Heaven v0.0.1 by Death GOD 7";
+  content: "DFH v0.0.1 by Death GOD 7";
   display: block;
 }
 
